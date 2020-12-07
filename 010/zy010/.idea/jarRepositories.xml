@@ -17,8 +17,8 @@
       <option name="url" value="https://jcenter.bintray.com/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="Google" />
-      <option name="name" value="Google" />
+      <option name="id" value="8203a8ad-d267-4e46-b7e8-38ecc2109dee" />
+      <option name="name" value="8203a8ad-d267-4e46-b7e8-38ecc2109dee" />
       <option name="url" value="https://dl.google.com/dl/android/maven2/" />
     </remote-repository>
   </component>
